@@ -1,0 +1,2 @@
+# minimap
+minimap for diokol
